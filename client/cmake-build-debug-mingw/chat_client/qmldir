@@ -1,4 +1,0 @@
-module chat_client
-typeinfo chat_client.qmltypes
-prefer :/chat_client/
-
