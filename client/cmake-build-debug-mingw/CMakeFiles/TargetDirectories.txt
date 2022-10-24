@@ -1,0 +1,3 @@
+C:/Users/Andrei/Documents/Projects/Repos/Chatting App/client/cmake-build-debug-mingw/CMakeFiles/chat_client.dir
+C:/Users/Andrei/Documents/Projects/Repos/Chatting App/client/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/Andrei/Documents/Projects/Repos/Chatting App/client/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
