@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/chat_client">
+    <file alias="qmldir">C:/Users/Andrei/Documents/Projects/Repos/Chatting App/client/cmake-build-debug-mingw/chat_client/qmldir</file>
+  </qresource>
+</RCC>
+

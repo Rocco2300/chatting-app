@@ -1,0 +1,159 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "chat_client",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-b98cf740e1ec9aacdcb2.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-541787e6b910d8989200.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-b2ae581acf160756ad29.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "chat_client::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chat_client-Debug-4af708583978b960c9e3.json",
+					"name" : "chat_client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "chat_client_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chat_client_autogen-Debug-b07a6d03bbe54fc3d872.json",
+					"name" : "chat_client_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "chat_client_automoc_json_extraction::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chat_client_automoc_json_extraction-Debug-99c7269b302b79370bd2.json",
+					"name" : "chat_client_automoc_json_extraction",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "chat_client_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chat_client_other_files-Debug-e94541b64f9764d14979.json",
+					"name" : "chat_client_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "chat_client_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chat_client_qmlimportscan-Debug-851b92f3af882cf91e7f.json",
+					"name" : "chat_client_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "chat_client_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chat_client_qmllint-Debug-25fcbe37e072097ac142.json",
+					"name" : "chat_client_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "chat_client_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chat_client_qmllint_json-Debug-2e9ac61b85d177e28514.json",
+					"name" : "chat_client_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "chat_client_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chat_client_qmltyperegistration-Debug-6d93a5a71b3e0b7c2e9e.json",
+					"name" : "chat_client_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "chat_client_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chat_client_tooling-Debug-b7268dda0027e5447105.json",
+					"name" : "chat_client_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Andrei/Documents/Projects/Repos/Chatting App/client/cmake-build-debug-mingw",
+		"source" : "C:/Users/Andrei/Documents/Projects/Repos/Chatting App/client"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
