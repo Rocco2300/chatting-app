@@ -1,3 +1,0 @@
-/mnt/c/Users/Andrei/Documents/Projects/Repos/Chatting App/server/cmake-build-debug/CMakeFiles/chat_server.dir
-/mnt/c/Users/Andrei/Documents/Projects/Repos/Chatting App/server/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Users/Andrei/Documents/Projects/Repos/Chatting App/server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
